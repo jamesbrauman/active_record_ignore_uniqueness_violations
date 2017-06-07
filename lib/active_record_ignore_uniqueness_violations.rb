@@ -1,0 +1,2 @@
+require 'active_record_ignore_uniqueness_violations/version'
+require 'active_record_ignore_uniqueness_violations/active_record'
